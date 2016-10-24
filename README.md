@@ -7,4 +7,4 @@ npm install
 
 npm install -g webpack
 
-Abrir o index.html dentro da pasta public
+node bin/www
